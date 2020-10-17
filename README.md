@@ -1,5 +1,6 @@
 ### Hi, I'm 👑Diana 
-
+I’m currently working on my masters in ML and Autonomous Systems :) 
+Willing to learn, explore and coolaborate in different projects.
 <!--
 **diana-corona/diana-corona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
