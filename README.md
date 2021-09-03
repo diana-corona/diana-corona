@@ -1,11 +1,7 @@
   
-
-### .....♛.........   
-### Hi!
-### (∩^ᗜ^)⊃━☆ﾟ.*  I'm 👑 Diana 
-### I’m currently studying my masters in ML and Autonomous Systems :)  🤖
-#### Willing to learn, explore and coolaborate in different projects. 💻
-### ............... 
+ Hi, I'm Diana 👑
+ 
+🤓 I’m currently studying my masters in ML and Autonomous Systems 🤖
 
 
 <!--
