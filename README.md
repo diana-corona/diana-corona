@@ -1,8 +1,10 @@
   
  Hi, I'm Diana 👑
  
-🤓 I’m currently studying my masters in ML and Autonomous Systems 🤖
+🤓 MSc in Machine Learning and Autonomous Systems Graduate - University of Bath 🤖
+My objective is to design, build, troubleshoot, and maintain scalable and transparent machine-learning pipelines on online serving systems, as well as to optimize the performance of machine-learning models and infrastructure and to create end-to-end solutions.
 
+Check my gist https://gist.github.com/diana-corona
 
 <!--
 **diana-corona/diana-corona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
