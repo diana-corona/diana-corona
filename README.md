@@ -5,6 +5,7 @@
 My objective is to design, build, troubleshoot, and maintain scalable and transparent machine-learning pipelines on online serving systems, as well as to optimize the performance of machine-learning models and infrastructure and to create end-to-end solutions.
 
 Check my portfolio https://diana-corona.github.io/
+
 Check my gist https://gist.github.com/diana-corona
 
 <!--
