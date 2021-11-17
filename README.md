@@ -2,7 +2,8 @@
  Hi, I'm Diana 👑
  
 🤓 MSc in Machine Learning and Autonomous Systems Graduate - University of Bath 🤖
-My objective is to design, build, troubleshoot, and maintain scalable and transparent machine-learning pipelines on online serving systems, as well as to optimize the performance of machine-learning models and infrastructure and to create end-to-end solutions.
+
+My objective is to design, build, troubleshoot, and maintain scalable and transparent end-to-end solutions with machine-learning models. As well as to optimize the performance of machine-learning pipelines and infrastructure. 
 
 Check my portfolio https://diana-corona.github.io/
 
