@@ -5,7 +5,7 @@
 
 My objective is to design, build, troubleshoot, and maintain scalable and transparent end-to-end solutions with machine-learning models. As well as to optimize the performance of machine-learning pipelines and infrastructure. 
 
-Check my portfolio https://diana-corona.netlify.app  (old: https://diana-corona.github.io/)
+Check my portfolio https://diana-corona.github.io/
 
 Check my gist https://gist.github.com/diana-corona
 
