@@ -3,7 +3,7 @@
  
 🤓 MSc in Machine Learning and Autonomous Systems Graduate - University of Bath 🤖
 
-My objective is to design, build, troubleshoot, and maintain scalable and distributed architectures and features though APIs, being a plus to work or collaborate on  machine learning proyects.
+My objective is to design, build, troubleshoot, and maintain scalable and distributed APIs, being a plus to work or collaborate on  machine learning proyects.
 
 Check my portfolio https://diana-corona.github.io/
 
