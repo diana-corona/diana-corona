@@ -1,5 +1,7 @@
   
- Hi, I'm Diana 👑
+Hi, I'm Diana 👑
+
+Mexican 🇲🇽, (She/Her)
  
 🤓 MSc in Machine Learning and Autonomous Systems Graduate - University of Bath 🤖
 
